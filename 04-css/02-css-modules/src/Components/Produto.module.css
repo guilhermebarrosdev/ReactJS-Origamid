@@ -1,0 +1,13 @@
+.titulo {
+  color: brown;
+}
+
+.preco {
+  font-weight: bold;
+}
+
+.comprar:hover {
+  cursor: pointer;
+  background: #43c;
+  color: white;
+}
